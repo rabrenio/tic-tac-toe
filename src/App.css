@@ -1,0 +1,16 @@
+html,
+body,
+#root,
+.App {
+    height: 100%;
+}
+
+* {
+    font-family: consolas;
+}
+
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
